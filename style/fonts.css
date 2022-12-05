@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'roboto-bold';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../Fonts/roboto-bold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'roboto-regular';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../Fonts/roboto-regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Raleway-Regular';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../Fonts/Raleway-Regular.woff2') format('woff2');
+}

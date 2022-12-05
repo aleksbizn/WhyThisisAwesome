@@ -1,0 +1,35 @@
+.header {
+	background-color: #555;
+
+	background: linear-gradient(to bottom, #555 0%, rgba (0, 0, 0, 0) 100%);
+
+	background-image: url(../images/header.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	/* background-position: center top; */
+	background-size: cover;
+	/* background-size: contain;  */
+
+}
+
+.header__container {
+	margin-bottom: 100px;
+	display: flex;
+}
+
+.header__slogan {
+	color: white;
+}
+
+.header__menu-list {
+	display: flex;
+	/* выравнивание по вертикали */
+	align-items: center;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.header__logo {
+	width: 100px;
+	height: 100px;
+}
